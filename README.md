@@ -1,2 +1,1 @@
-# hello-world-bootstrap
-Isi dari tutorial menggunakan Bootstrap CSS
+Ini adalah source code dari latihan Hello World menggunakna Bootstrap CSS. Silahkan kirim email ke muhzaini30@gmail.com jika ada kesulitan.
